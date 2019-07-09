@@ -1,0 +1,11 @@
+
+
+Numbers of words : 5
+Numbers of letters : 16
+Numbers of digit : 5
+Numbers of Other char : 8
+
+
+Separated letters : M d T a r e q Z m n P t 
+Separated digits : 3 2 0 1 9 
+Separated others : .   , - 
